@@ -19,7 +19,9 @@ kedro[jupyter]~=0.19.11
 flake8
 black
 
-# Torch
+# Torch & Tensorboard
 torch
 torchvision
 torchaudio
+lightning
+tensorboard
