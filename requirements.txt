@@ -1,0 +1,27 @@
+setuptools; python_version >= "3.12"
+
+# Core Data Science & Notebooks
+ipython>=8.10
+jupyterlab>=3.0
+notebook
+tqdm
+matplotlib
+scikit-learn~=1.5.1
+python-dotenv
+
+# Kedro
+kedro~=0.19.12
+kedro-datasets>=3.0
+kedro-viz>=6.7.0
+kedro[jupyter]~=0.19.11
+
+# Code Quality
+flake8
+black
+
+# Torch & Tensorboard
+torch
+torchvision
+torchaudio
+lightning
+tensorboard
