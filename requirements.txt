@@ -10,6 +10,7 @@ scikit-learn~=1.5.1
 python-dotenv
 diffusers
 transformers
+accelerate
 
 # Kedro
 kedro~=0.19.12
