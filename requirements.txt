@@ -17,8 +17,16 @@ flake8
 black
 
 # Torch & Tensorboard
+# --index-url https://download.pytorch.org/whl/cu126 # For CUDA 12.6 > RTX 4060 Mobile
 torch
 torchvision
 torchaudio
 lightning
 tensorboard
+
+# GPU Support for Test_Ethan.ipynb
+peft
+bitsandbytes
+datasets
+ftfy
+gradio
