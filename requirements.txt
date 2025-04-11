@@ -12,12 +12,6 @@ diffusers
 transformers
 accelerate
 
-# Kedro
-kedro~=0.19.12
-kedro-datasets>=3.0
-kedro-viz>=6.7.0
-kedro[jupyter]~=0.19.11
-
 # Code Quality
 flake8
 black
