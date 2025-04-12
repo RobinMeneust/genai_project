@@ -30,3 +30,12 @@ bitsandbytes
 datasets
 ftfy
 gradio
+
+google-genai
+diffusers 
+transformers 
+accelerate 
+ftfy 
+scipy 
+imageio 
+gradio 
