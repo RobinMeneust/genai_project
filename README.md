@@ -3,7 +3,7 @@
 
 ## Proposal
 
-![Proposal](proposal.md)
+![Proposal ](proposal.md)
 
 ## Install
 
