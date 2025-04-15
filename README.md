@@ -3,8 +3,8 @@
 
 Vous trouverez dans ce repository :
 
-- Une [implémentation](notebook/imagic.ipynb) du modèle Imagic (décrit dans le [papier scientifique](Kawar_Imagic_Text-Based_Real_Image_Editing_With_Diffusion_Models_CVPR_2023_paper.pdf)) utilisant Stable Diffusion pour l'édition d'images.
-- Une [implémentation](notebook/Test_LoRA_implementation_Ethan.ipynb) de LoRA pour le fine-tuning.
+- Une [implémentation](notebooks/imagic.ipynb) du modèle Imagic (décrit dans le [papier scientifique](Kawar_Imagic_Text-Based_Real_Image_Editing_With_Diffusion_Models_CVPR_2023_paper.pdf)) utilisant Stable Diffusion pour l'édition d'images.
+- Une [implémentation](notebooks/Test_LoRA_implementation_Ethan.ipynb) de LoRA pour le fine-tuning.
 
 
 
