@@ -3,7 +3,13 @@
 
 ## Proposal
 
-![Proposal ](proposal.md)
+[Proposal](proposal.md)
+
+
+## Rapport
+
+[Rapport](Rapport%20Gen-AI%20Meneust,%20Cabrit,%20Charlet,%20Pinto.pdf)
+
 
 ## Install
 
